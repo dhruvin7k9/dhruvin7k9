@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvink79" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvink79?logo=twitter&style=for-the-badge" alt="dhruvink79" /></a> </p>
 
-- 🌱 I’m currently learning **MERN,Blockchain, Devops**
+- 🌱 I’m currently learning **MERN, Devops and Cloud**
 
 - 📫 How to reach me **dhruvink79@gmail.com**
 
